@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorPrimary">#546E7A</color>
+    <color name="colorAccent">#607d8b</color>
+    <color name="white">#ffffffff</color>
+    <color name="fullscreen_line_color">#E5FFFFFF</color>
+    <color name="textColor">#263238</color>
+
+    <!-- A transparent black -->
+    <color name="transparent_black">#aa000000</color>
+
+    <!-- selected tab text -->
+    <color name="selected_tabtext">#bb000000</color>
+
+    <!-- non selected tab text -->
+    <color name="unselected_tabtext">#77000000</color>
+    <color name="shuffle_grey">#ffdedede</color>
+    <color name="background_grey">#ffdedede</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Black -->
+    <color name="black">#ff000000</color>
+
+    <!-- White -->
+</resources>

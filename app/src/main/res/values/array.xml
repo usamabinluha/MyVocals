@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="surahs">
+        <item>78. An-Naba</item>
+        <item>79. An-Nazi\'aat</item>
+        <item>80. Abasa</item>
+        <item>81. At-Takwir</item>
+        <item>82. Al-Infitaar</item>
+        <item>83. Al-Mutaffifin</item>
+        <item>84. Al-Inshiqaq</item>
+        <item>85. Al-Burooj</item>
+        <item>86. At-Tariq</item>
+        <item>87. Al-A\'la</item>
+        <item>88. Al-Ghaashiyah</item>
+        <item>89. Al-Fajr</item>
+        <item>90. Al-Balad</item>
+        <item>91. Ash-Shams</item>
+        <item>92. Al-Lail</item>
+        <item>93. Ad-Duha</item>
+        <item>94. Ash-Sharh</item>
+        <item>95. At-Tin</item>
+        <item>96. Al-Alaq</item>
+        <item>97. Al-Qadr</item>
+        <item>98. Al-Baiyyinah</item>
+        <item>99. Az-Zalzalah</item>
+        <item>100. Al-Aadiyaat</item>
+        <item>101. Al-Qari\'ah</item>
+        <item>102. At-Takaathur</item>
+        <item>103. Al-Asr</item>
+        <item>104. Al-Humazah</item>
+        <item>105. Al-Feel</item>
+        <item>106. Quraish</item>
+        <item>107. Al-Maa\'oon</item>
+        <item>108. Al-Kauthar</item>
+        <item>109. Al-Kaafiroon</item>
+        <item>110. An-Nasr</item>
+        <item>111. Al-Masad</item>
+        <item>112. Al-Ikhlaas</item>
+        <item>113. Al-Falaq</item>
+        <item>114. An-Naas</item>
+    </string-array>
+</resources>

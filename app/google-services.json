@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006942563334",
+    "firebase_url": "https://ammajuzz-b963d.firebaseio.com",
+    "project_id": "ammajuzz-b963d",
+    "storage_bucket": "ammajuzz-b963d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006942563334:android:7599de7f18753bbf",
+        "android_client_info": {
+          "package_name": "in.soniccomputer.www.ammajuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006942563334-3shkh87763q4k186a5svc3m9dhipqb6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.soniccomputer.www.ammajuzz",
+            "certificate_hash": "08f28aed3951e51b36f9d068edc3aa9e0ca36fc4"
+          }
+        },
+        {
+          "client_id": "1006942563334-eeq6je6puhadjjrqand53sa5lfo3g010.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMskpulOLIHUzLYLbzFeJANhNNHSIFC0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006942563334-eeq6je6puhadjjrqand53sa5lfo3g010.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

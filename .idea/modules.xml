@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmmaJuzz.iml" filepath="$PROJECT_DIR$/AmmaJuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AmmaJuzz.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AmmaJuzz.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/downloader_library/AmmaJuzz.downloader_library.iml" filepath="$PROJECT_DIR$/.idea/modules/downloader_library/AmmaJuzz.downloader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/AmmaJuzz.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/AmmaJuzz.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zip_file/AmmaJuzz.zip_file.iml" filepath="$PROJECT_DIR$/.idea/modules/zip_file/AmmaJuzz.zip_file.iml" />
+    </modules>
+  </component>
+</project>
